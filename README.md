@@ -64,7 +64,3 @@ yarn dev
 - Tone.js
 - Tailwind CSS
 - Shadcn/ui
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
